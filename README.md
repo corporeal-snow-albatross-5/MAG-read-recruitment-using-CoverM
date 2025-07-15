@@ -50,7 +50,6 @@ coverm genome \
 
 
 ## Step 3: Explore the output
-```
 You’ll get a file like sample_coverage.tsv with one row per MAG, and columns like:
 ```
 genome	relative_abundance	coverage
